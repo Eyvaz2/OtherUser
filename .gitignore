@@ -1,4 +1,6 @@
 .logs
+*.xlsx
+.gitignore
 !error.logs
 /test2
 test4
