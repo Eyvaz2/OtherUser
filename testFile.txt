@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 ryjetujktui,khij.,hikl.h
+=======
+dryjetujktui,khij.,hikl.h
+efrvevegtttttttttttttt
+tttttttttttttttttttttttttttb
+bbbbbbbbbbbbbbbbbbbbbbbbtt
+ttttttttttttttttttttttttte
+ertgbgrfbg fb fgbrb fgf
+>>>>>>> parent of 6f0eb27 (8-c test)
